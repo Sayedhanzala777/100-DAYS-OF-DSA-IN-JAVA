@@ -1,0 +1,12 @@
+# Day 1: Reverse an Array
+
+**Problem Statement:**  
+Given an array of integers, reverse the array in place.
+
+**Example:**  
+Input: [1, 2, 3, 4, 5]  
+Output: [5, 4, 3, 2, 1]
+
+**Constraints:**  
+- 1 <= array.length <= 1000  
+- -10^5 <= array[i] <= 10^5
