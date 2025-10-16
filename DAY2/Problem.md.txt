@@ -1,0 +1,14 @@
+# Day 2: Find Maximum and Minimum in an Array
+
+**Problem Statement:**  
+Given an array of integers, find the maximum and minimum elements in the array.
+
+**Example:**  
+Input: [3, 5, 1, 8, -2, 7]  
+Output:  
+Max = 8  
+Min = -2
+
+**Constraints:**  
+- 1 <= array.length <= 10^5  
+- -10^9 <= array[i] <= 10^9
