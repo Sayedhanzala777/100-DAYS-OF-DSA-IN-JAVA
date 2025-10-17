@@ -1,0 +1,21 @@
+Tasks
+
+Find Maximum and Minimum in Array
+
+Input an array and find the largest and smallest elements.
+
+Reverse an Array
+
+Reverse the given array using two-pointer approach.
+
+Sum of Array Elements
+
+Calculate total sum of all elements in the array.
+
+Count Even and Odd Numbers
+
+Count how many numbers are even and how many are odd.
+
+Check if Array is Sorted
+
+Return true if the array is sorted in ascending order.
