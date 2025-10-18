@@ -1,0 +1,20 @@
+Day 4 : Sorting Algorithms
+Activity 1: Bubble Sort
+
+Task 1: Write a Java program to implement the Bubble Sort algorithm.
+Task 2: Modify the Bubble Sort algorithm to sort the array in descending order.
+
+Activity 2: Selection Sort
+
+Task 3: Write a program to perform Selection Sort on an integer array.
+Task 4: Print the array after each pass to visualize the sorting process.
+
+Activity 3: Insertion Sort
+
+Task 5: Implement the Insertion Sort algorithm.
+Task 6: Test it with both sorted and unsorted arrays to see performance differences.
+
+Activity 4: Sorting Practice
+
+Task 7: Write a program that accepts an array of strings and sorts them alphabetically.
+Task 8: Write a function that takes an array of custom objects (like students with names and marks) and sorts them by marks.
