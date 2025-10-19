@@ -1,0 +1,15 @@
+Day 5 : Searching Algorithms
+Activity 1: Linear Search
+
+Task 1: Write a function to perform linear search in an array.
+Task 2: Return the index of the element if found, else return -1.
+
+Activity 2: Binary Search
+
+Task 3: Implement binary search (array must be sorted).
+Task 4: Return the index of the element if found, else return -1.
+
+Activity 3: Practice Problems
+
+Task 5: Find all occurrences of a given element in an array.
+Task 6: Check if a number exists in a sorted array using binary search.
