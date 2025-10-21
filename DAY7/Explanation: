@@ -1,0 +1,9 @@
+Start by assuming the first element is both max and min.
+
+Loop through the array comparing each element:
+
+Update max when a larger value is found.
+
+Update min when a smaller value is found.
+
+After one traversal, you’ll have both the largest and smallest numbers.
