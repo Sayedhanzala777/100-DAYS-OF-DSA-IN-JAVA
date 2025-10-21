@@ -1,0 +1,23 @@
+**Day 7: Find Maximum and Minimum Element in Array**
+
+**Task:**
+Write a Java program to find the **maximum** and **minimum** elements in a given array **without using built-in functions**.
+
+**Example:**
+Input: `[5, 2, 9, 1, 7]`
+Output:
+
+```
+Maximum: 9  
+Minimum: 1
+```
+
+**Instructions:**
+
+1. Initialize two variables — `max` and `min` — with the first element of the array.
+2. Traverse the array once:
+
+   * If an element is greater than `max`, update `max`.
+   * If an element is smaller than `min`, update `min`.
+3. Print both `max` and `min`.
+4. Test with multiple arrays (e.g., negative numbers, same elements, sorted arrays).
