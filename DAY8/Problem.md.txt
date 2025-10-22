@@ -1,0 +1,21 @@
+// Activity 1 : Linear Search
+// Task 1 > Write a Java function to perform a linear search on an array.
+// Task 2 > If the element is found, return its index; otherwise, return -1.
+
+
+// Activity 2 : Binary Search
+// Task 3 > Write a Java function to perform a binary search on a sorted array.
+// Task 4 > Return the index of the target element if found; otherwise, return -1.
+
+
+// Activity 3 : Searching Strings
+// Task 5 > Implement a function that checks whether a given string exists in an array of strings.
+
+
+// Activity 4 : Custom Search Condition
+// Task 6 > Write a program to find the first number greater than a given value in an array.
+
+
+// Activity 5 : Practical Usage
+// Task 7 > Create a method that finds the index of a student name from an array of student names.
+// Task 8 > Print a message “Student found at index X” or “Student not found” accordingly.
