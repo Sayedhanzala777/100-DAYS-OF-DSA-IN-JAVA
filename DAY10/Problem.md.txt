@@ -1,0 +1,23 @@
+// Day - 10 : Sorting Algorithms (Part 1)
+
+// Activity 1 : Bubble Sort
+// Task1 > Write a Java program to implement Bubble Sort.
+// Task2 > Print the array before and after sorting.
+
+
+// Activity 2 : Selection Sort
+// Task3 > Implement Selection Sort algorithm.
+// Task4 > Print each pass of the sorting process to visualize how the algorithm works.
+
+
+// Activity 3 : Insertion Sort
+// Task5 > Write a Java program for Insertion Sort.
+// Task6 > Print the array after each insertion step.
+
+
+// Activity 4 : Sorting Strings
+// Task7 > Implement a method to sort an array of strings alphabetically using Bubble Sort logic.
+
+
+// Activity 5 : Sorting in Descending Order
+// Task8 > Modify one of the above sorting algorithms to sort numbers in descending order.
