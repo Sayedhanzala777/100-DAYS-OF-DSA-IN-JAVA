@@ -1,0 +1,45 @@
+Day 12: Recursion – Intermediate Problems
+Activity 1: Basic Recursive Thinking
+
+Task 1: Write a recursive function to calculate the sum of digits of a number.
+Example:
+Input → 1234
+Output → 10
+
+Task 2: Write a recursive function to find the nth term of the Fibonacci series.
+Example:
+Input → n = 6
+Output → 8
+
+Activity 2: Recursive String Operations
+
+Task 3: Write a recursive function to reverse a string.
+Example:
+Input → "hello"
+Output → "olleh"
+
+Task 4: Write a recursive function to check whether a string is a palindrome.
+Example:
+Input → "madam"
+Output → true
+
+Activity 3: Divide and Conquer
+
+Task 5: Write a recursive function to find the maximum element in an array.
+Example:
+Input → [2, 5, 9, 1, 7]
+Output → 9
+
+Activity 4: Recursion with Decision Making
+
+Task 6: Write a recursive function to count how many times a target element appears in an array.
+Example:
+Input → [1, 2, 2, 3, 2], target = 2
+Output → 3
+
+Activity 5: Classic Recursive Problem
+
+Task 7: Write a recursive function to calculate the power of a number (xⁿ).
+Example:
+Input → 2, 5
+Output → 32
