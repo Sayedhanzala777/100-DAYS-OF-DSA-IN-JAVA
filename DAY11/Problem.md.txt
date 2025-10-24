@@ -1,0 +1,23 @@
+// Day - 11 : Sorting Algorithms (Part 2)
+
+// Activity 1 : Merge Sort
+// Task1 > Write a Java program to implement Merge Sort.
+// Task2 > Divide the array recursively and merge sorted halves back together.
+
+
+// Activity 2 : Quick Sort
+// Task3 > Implement Quick Sort using recursion.
+// Task4 > Choose the last element as the pivot and sort the array.
+
+
+// Activity 3 : Sorting Objects
+// Task5 > Create a class `Student` with fields name and marks.
+// Task6 > Write a program to sort the students by marks in ascending order using any sorting algorithm.
+
+
+// Activity 4 : Compare Sorting Times
+// Task7 > Compare the execution time of Bubble Sort, Merge Sort, and Quick Sort on large arrays.
+
+
+// Activity 5 : Practice
+// Task8 > Write a program to check whether two integer arrays are equal after sorting.
