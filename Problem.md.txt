@@ -1,0 +1,28 @@
+Day 13: Searching Algorithms (Linear & Binary Search)
+Activity 1: Linear Search Basics
+
+Task 1: Implement a Linear Search algorithm to find an element in an array.
+Print the index of the element if found, otherwise print -1.
+
+Task 2: Modify your linear search to count how many times a target element appears in an array.
+
+Activity 2: Binary Search Fundamentals
+
+Task 3: Implement a Binary Search algorithm on a sorted array to find the index of a given element.
+If the element doesn’t exist, return -1.
+
+Task 4: Modify your binary search to find the first and last occurrence of an element in a sorted array.
+
+Activity 3: Recursive Binary Search
+
+Task 5: Write a recursive binary search function that performs the same operation as Task 3.
+
+Activity 4: Search in 2D Arrays
+
+Task 6: Write a function to perform linear search in a 2D array (matrix).
+Print the row and column index if found, else not found.
+
+Activity 5: Practice Problem
+
+Task 7: You are given a rotated sorted array (e.g. [4,5,6,7,0,1,2]).
+Implement a function to find the index of a given target using modified binary search
