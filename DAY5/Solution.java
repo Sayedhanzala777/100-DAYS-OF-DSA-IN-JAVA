@@ -49,7 +49,6 @@ public class SearchingAlgorithms {
         int key1 = 8;
         int index1 = linearSearch(arr, key1);
         System.out.println("Linear Search: " + key1 + " found at index " + index1);
-
         // Binary Search (array must be sorted)
         int[] sortedArr = {1, 2, 3, 5, 8};
         int key2 = 5;
@@ -66,3 +65,4 @@ public class SearchingAlgorithms {
         System.out.println("Exists in sorted array? " + existsInSorted(sortedArr, key4));
     }
 }
+
