@@ -1,0 +1,36 @@
+Day - 12 : Linked Lists
+Activity 1 : Introduction to Linked List
+
+Task 1:
+Create a Node class that has two attributes — data and next.
+Then, create a LinkedList class that initializes with a head set to null.
+
+Task 2:
+Add a method append(int data) to insert a new node at the end of the list.
+
+Activity 2 : Linked List Operations
+
+Task 3:
+Add a method prepend(int data) to insert a new node at the beginning of the list.
+
+Task 4:
+Add a method delete(int data) to remove a node that matches the given data value.
+
+Activity 3 : Searching & Traversal
+
+Task 5:
+Add a method find(int data) that returns true if the data exists in the list, otherwise false.
+
+Task 6:
+Add a method printList() that prints all the elements of the linked list in order.
+
+Activity 4 : Reverse a Linked List
+
+Task 7:
+Write a function reverse() that reverses the linked list in place (no new list creation).
+
+Activity 5 : Advanced Practice
+
+Task 8:
+Write a method getMiddle() to find and return the middle node of the linked list.
+If there are two middle nodes, return the second one.
