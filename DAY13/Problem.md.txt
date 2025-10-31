@@ -1,0 +1,18 @@
+// Activity 1 : Implementing Stack
+// Task1 > Create a Stack class with methods push(), pop(), peek(), and isEmpty().
+// Task2 > Demonstrate stack operations by pushing and popping elements.
+
+// Activity 2 : Stack Using Array
+// Task3 > Implement stack operations using an array.
+// Task4 > Handle stack overflow and underflow conditions with proper messages.
+
+// Activity 3 : Stack Using Linked List
+// Task5 > Implement stack using linked list instead of array.
+// Task6 > Write methods for push(), pop(), and peek() using linked list approach.
+
+// Activity 4 : Stack Applications
+// Task7 > Write a function to reverse a string using a stack.
+// Task8 > Write a function to check for balanced parentheses using a stack.
+
+// Activity 5 : Real World Example
+// Task9 > Implement browser back button functionality using stack operations.
