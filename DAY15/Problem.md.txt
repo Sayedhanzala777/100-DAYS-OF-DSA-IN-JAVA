@@ -1,0 +1,33 @@
+Day 15: Arrays – Part 3 (2D Arrays & Common Problems)
+
+Activity 1: 2D Array Basics
+
+Task 1: Create a 2D array and print its elements using nested loops.
+Task 2: Write a function to calculate the sum of all elements in a 2D array.
+
+ Activity 2: Row and Column Operations
+
+Task 3: Write a program to find the sum of each row and each column of a matrix.
+Task 4: Find the maximum element in a 2D array and print its position.
+
+ Activity 3: Diagonal Elements
+
+Task 5: Write a program to print the main diagonal and secondary diagonal elements of a square matrix.
+Task 6: Calculate the sum of both diagonals of a square matrix.
+
+ Activity 4: Matrix Transformations
+
+Task 7: Write a program to transpose a matrix (convert rows to columns).
+Task 8: Write a program to rotate a square matrix 90 degrees clockwise.
+
+ Activity 5: Pattern Problems
+
+Task 9: Print the following pattern using nested loops (n = 3):
+
+1 2 3  
+4 5 6  
+7 8 9
+
+
+Challenge Task (Optional):
+Write a program to multiply two matrices and print the result.
