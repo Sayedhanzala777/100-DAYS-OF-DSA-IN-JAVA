@@ -1,0 +1,103 @@
+// Day 16: Strings & StringBuilder
+
+public class Day16 {
+    public static void main(String[] args) {
+
+        // Activity 1: String Basics
+        // Task 1: Create and print a string
+        String name = "Sayed Hanzala";
+        System.out.println("Name: " + name);
+
+        // Task 2: Concatenate two strings
+        String greet = "Hello, ";
+        String message = greet + name;
+        System.out.println("Concatenated String: " + message);
+
+        // Task 3: Access specific characters
+        System.out.println("First character: " + name.charAt(0));
+        System.out.println("Last character: " + name.charAt(name.length() - 1));
+
+        // Activity 2: String Operations
+        // Task 4: Reverse a string manually
+        String original = "Java";
+        String reversed = "";
+        for (int i = original.length() - 1; i >= 0; i--) {
+            reversed += original.charAt(i);
+        }
+        System.out.println("Reversed string: " + reversed);
+
+        // Task 5: Check if a string is a palindrome
+        String word = "madam";
+        boolean isPalindrome = true;
+        for (int i = 0; i < word.length() / 2; i++) {
+            if (word.charAt(i) != word.charAt(word.length() - 1 - i)) {
+                isPalindrome = false;
+                break;
+            }
+        }
+        System.out.println(word + " is palindrome: " + isPalindrome);
+
+
+        // Activity 3: StringBuilder Practice
+        // Task 6: Use StringBuilder to reverse a string
+        StringBuilder sb = new StringBuilder("DSA");
+        sb.reverse();
+        System.out.println("Reversed using StringBuilder: " + sb);
+
+        // Task 7: Append, insert, delete operations
+        StringBuilder sentence = new StringBuilder("Hello");
+        sentence.append(" Java");
+        sentence.insert(5, ",");
+        sentence.delete(0, 1);
+        System.out.println("Modified StringBuilder: " + sentence);
+
+        // Activity 4: Frequency and Word Operations
+        // Task 8: Count vowels and consonants in a string
+        String str = "programming";
+        int vowels = 0, consonants = 0;
+        for (char ch : str.toCharArray()) {
+            if ("aeiou".indexOf(Character.toLowerCase(ch)) != -1) vowels++;
+            else if (Character.isLetter(ch)) consonants++;
+        }
+        System.out.println("Vowels: " + vowels + ", Consonants: " + consonants);
+
+        // Task 9: Count words in a sentence
+        String sentence2 = "Java is powerful and fast";
+        String[] words = sentence2.split(" ");
+        System.out.println("Word count: " + words.length);
+
+
+        // Activity 5: Character Frequency and Duplicates
+        // Task 10: Find frequency of each character
+        String text = "success";
+        int[] freq = new int[256];
+        for (char ch : text.toCharArray()) freq[ch]++;
+
+        System.out.println("Character frequencies:");
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] > 0) {
+                System.out.println((char) i + ": " + freq[i]);
+            }
+        }
+
+        // Task 11: Remove duplicate characters
+        String input = "banana";
+        StringBuilder noDup = new StringBuilder();
+        for (int i = 0; i < input.length(); i++) {
+            char ch = input.charAt(i);
+            if (noDup.indexOf(String.valueOf(ch)) == -1) {
+                noDup.append(ch);
+            }
+        }
+        System.out.println("String after removing duplicates: " + noDup);
+
+        // Challenge Task: Longest word in a sentence
+        String line = "Java makes coding efficient and elegant";
+        String[] allWords = line.split(" ");
+        String longest = "";
+        for (String w : allWords) {
+            if (w.length() > longest.length()) longest = w;
+        }
+        System.out.println("Longest word: " + longest);
+    }
+}
