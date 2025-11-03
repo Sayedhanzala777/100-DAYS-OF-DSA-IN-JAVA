@@ -1,0 +1,23 @@
+// Activity 1 : Bubble Sort
+// Task 1 > Write a program to implement Bubble Sort.
+// Task 2 > Modify Bubble Sort to sort in descending order.
+
+
+// Activity 2 : Selection Sort
+// Task 3 > Write a program to implement Selection Sort.
+// Task 4 > Find the number of swaps required to sort the array using Selection Sort.
+
+
+// Activity 3 : Insertion Sort
+// Task 5 > Write a program to implement Insertion Sort.
+// Task 6 > Modify the program to sort strings in alphabetical order.
+
+
+// Activity 4 : Sorting with Conditions
+// Task 7 > Sort an array but keep even numbers in place (only sort odd numbers).
+// Task 8 > Sort an array of objects (Student name & marks) by marks.
+
+
+// Activity 5 : Practice Challenge
+// Task 9 > Compare the time complexity of Bubble, Selection, and Insertion Sort for small arrays.
+// Task 10 > Implement a function that takes an array and a sorting algorithm name (“bubble”, “selection”, or “insertion”) and applies it dynamically.
