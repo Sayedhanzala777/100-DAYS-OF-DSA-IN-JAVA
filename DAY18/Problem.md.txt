@@ -1,0 +1,23 @@
+// Activity 1 : Merge Sort
+// Task1 > Implement Merge Sort algorithm to sort an integer array in ascending order.
+// Task2 > Modify Merge Sort to sort in descending order.
+
+
+// Activity 2 : Quick Sort
+// Task3 > Implement Quick Sort using the last element as the pivot.
+// Task4 > Modify Quick Sort to sort in descending order.
+
+
+// Activity 3 : Advanced Sorting Practice
+// Task5 > Sort an array of strings using Merge Sort.
+// Task6 > Sort an array of custom objects (students with marks) using Quick Sort.
+
+
+// Activity 4 : Sorting Analysis
+// Task7 > Compare the time complexity of Merge Sort and Quick Sort for large arrays.
+// Task8 > Print which sorting algorithm performs faster based on execution time.
+
+
+// Activity 5 : Challenge Problem
+// Task9 > Implement Merge Sort to count inversions in an array (number of pairs where arr[i] > arr[j] for i < j).
+// Task10 > Write a function that merges two already sorted arrays into one sorted array.
